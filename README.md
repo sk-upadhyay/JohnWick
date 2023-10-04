@@ -1,4 +1,6 @@
 # JohnWick
+<p>This is the fan Page of JohnWick</p>
+
 ```
-https://github.com/sk-upadhyay/JohnWick
+https://sk-upadhyay.github.io/JohnWick/
 ```
