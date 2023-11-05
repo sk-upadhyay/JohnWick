@@ -8,7 +8,7 @@ body {
     background-image: linear-gradient(145.56deg, rgb(49, 138, 220) 5.44%, rgb(136, 24, 58) 41.5%, rgba(243, 231, 16, 0.729) 101.44%);
     background-attachment: fixed;
     background-size: cover;
-    max-width: 1250px; 
+    
 
 }
 @keyframes example {
